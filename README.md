@@ -1,12 +1,12 @@
 
-# Recent Graduate in Computer Science | Macaulay Honors Scholar | Intern at Seqato Software Solutions
+# Recent Graduate in Computer Science | Macaulay Honors Scholar 
 
 ## Technical Skills
-- Languages | Python, Java, C/C++, Solidity, JavaScript
-- Web Development | HTML, CSS, JavaScript, React.js, Node.js, Express.js, Django, Flask, Bootstrap
-- Data Sci | SQL, R Programming, Tableau, Pandas, Matplotlib, NumPy, Keras, TensorFlow, SciKit-Learn
-- Technologies | Git/GitHub, Trello, Jira, Slack, Microsoft Azure, AWS, Rally, Confluence, Microsoft Office
-- Operating Systems | Windows, macOS, KaliLinux, Ubuntu
+- Languages: Python, Java, C/C++, Solidity, JavaScript
+- Web Development: HTML, CSS, JavaScript, React.js, Node.js, Express.js, Django, Flask, Bootstrap
+- Data Science: SQL, R Programming, Tableau, Pandas, Matplotlib, NumPy, Keras, TensorFlow, SciKit-Learn
+- Technologies: Git/GitHub, Trello, Jira, Slack, Microsoft Azure, AWS, Rally, Confluence, Microsoft Office
+- Operating Systems: Windows, macOS, KaliLinux, Ubuntu
 
 ## Education        		
 - B.S., Computer Science | The City College of New York (_August 2019 - May 2023_)
@@ -22,7 +22,7 @@ user interface, to produce images from user-provided text prompts.
 - Selected for a competitive web development fellowship with students from across the 11 CUNY senior colleges where fellows
 create technical projects using tools such as React, Node + Express, and PostgreSQL.
 - Participated in weekly courses and learned industry best practices for design, implementation, and deployment such as MVC,
-version control with Git/GitHub, Agile & Scrum with Trello and Slack, test driven development, and CI/CD.
+version control with Git/GitHub, Agile & Scrum with Trello and Slack, test-driven development, and CI/CD.
 - Created an application that can calculate the risk of one developing cardiovascular disease with a 70 percent accuracy using numPy and Pandas.
 
 **Blockchain Research Assistant @ The City College of New York (_February 2021 - June 2023_)**
@@ -33,12 +33,11 @@ renewable energy sources.
 - Implemented the infrastructure by creating and deploying Solidity smart contracts and using the Ethereum blockchain.
 
 ## Projects
-### Example: Data-Driven EEG Band Discovery with Decision Trees
+### HODL
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Integrated seamlessly with online brokerages via API linkage, enhancing accessibility and usability for users. Employs a diverse array of algorithms leveraging various techniques and indicators for trading strategies. Provides comprehensive data analysis services, empowering retail investors with actionable insights. Bridges the information gap between retail and commercial investors by delivering digestible market insights. Offers extensive backtesting capabilities for algorithms, ensuring robust performance. Aims for enhanced profitability for users, striving to achieve positive returns in the stock market. Empowers users with accurate data analysis, advanced algorithms, and comprehensive market statistics for informed decision-making. Utilized NumPy and Pandas for algorithm design, Alpaca for the brokerage linkage, and AWS as the web service.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 
 ## Publications
