@@ -32,14 +32,29 @@ execute smart contracts.
 renewable energy sources.
 - Implemented the infrastructure by creating and deploying Solidity smart contracts and using the Ethereum blockchain.
 
+**Digital Patient Experience Engineering Intern @ Northwell Health (_June 2022 - August 2022_)**
+- Facilitated the move of the Rally-Confluence integration from a sandbox environment to a managed environment, which
+involved creating a resource group, function app, and key vault and linking them together.
+- Conducted quality assurance testing on the Northwell app, assessing features, providing feedback, and aiding in bug fixes and
+enhancements.
+- Created UI/UX defect documentation and presented it to the developers.
+- Designed and implemented Azure alert rules in resource groups, utilizing KQL (Kusto Query Language) to ensure efficient and
+effective monitoring and response to system events.
+
+
 ## Projects
 ### HODL
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[View Project](https://github.com/yongfu-lu/HODL/tree/development)
 
-Integrated seamlessly with online brokerages via API linkage, enhancing accessibility and usability for users. Employs a diverse array of algorithms leveraging various techniques and indicators for trading strategies. Provides comprehensive data analysis services, empowering retail investors with actionable insights. Bridges the information gap between retail and commercial investors by delivering digestible market insights. Offers extensive backtesting capabilities for algorithms, ensuring robust performance. Aims for enhanced profitability for users, striving to achieve positive returns in the stock market. Empowers users with accurate data analysis, advanced algorithms, and comprehensive market statistics for informed decision-making. Utilized NumPy and Pandas for algorithm design, Alpaca for the brokerage linkage, and AWS as the web service.
+Integrated seamlessly with online brokerages via API linkage, enhancing accessibility and usability for users. Employs a diverse array of algorithms leveraging various techniques and indicators for trading strategies. Provides comprehensive data analysis services, empowering retail investors with actionable insights. Bridges the information gap between retail and commercial investors by delivering digestible market insights. Offers extensive backtesting capabilities for algorithms, ensuring robust performance. Aims for enhanced profitability for users, striving to achieve positive returns in the stock market. Empowers users with accurate data analysis, advanced algorithms, and comprehensive market statistics for informed decision-making. Utilized **NumPy** and **Pandas** for algorithm design, **Alpaca** for the brokerage linkage, and **AWS** as the web service.
+
+### Study Buddies
+[View Project](https://github.com/joel-m-james/study-buddies)
+
+Built a React application where users can form or join existing study groups for classes they're struggling in. Implemented **PostgreSQL** and **Sequelize.js** databases for efficient management of student, course, and school data. Constructed the user interface using **HTML**, **CSS**, and **Javascript**, and utilized **Express.js** as the backend to support the application.
 
 
 
 ## Publications
-1. S. Sachdeva, L. Fatehaj, S. Tan, J. James, O. Ajayi and T. Saadawi, "A Blockchain based Framework for Secure and Decentralized Energy Trading in a Community," 2023 IEEE International Conference on Industrial Technology (ICIT), Orlando, FL, USA, 2023, pp. 1-8, doi: 10.1109/ICIT58465.2023.10143101. keywords: {Industries;Data privacy;Renewable energy sources;Data integrity;Smart contracts;Information sharing;Real-time systems;Blockchain;Energy Trading framework;smart contract;local energy market},
+1. S. Sachdeva, L. Fatehaj, S. Tan, J. James, O. Ajayi, and T. Saadawi, "A Blockchain-based Framework for Secure and Decentralized Energy Trading in a Community," 2023 IEEE International Conference on Industrial Technology (ICIT), Orlando, FL, USA, 2023, pp. 1-8, doi: 10.1109/ICIT58465.2023.10143101. keywords: {Industries;Data privacy;Renewable energy sources;Data integrity;Smart contracts;Information sharing;Real-time systems;Blockchain;Energy Trading framework;smart contract;local energy market},
 
